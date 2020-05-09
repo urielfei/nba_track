@@ -12,7 +12,6 @@ games = games['GAME_ID'].unique()
 
 df = pd.DataFrame()
 for index in games:
-    print(index)
     raw = boxscoreplayertrackv2.BoxScorePlayerTrackV2(index).get_data_frames()[0]
     df = df.append(raw)
 
