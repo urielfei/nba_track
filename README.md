@@ -1,7 +1,7 @@
-##Data Preparation for NBA Tracking analysis 
+##Data Preparation for NBA Tracking analysis ##
 
-###How: Using the nba_api module <br>
-###Goal: Analyze nba Players by tracking players in games <br>
+###How: Using the nba_api module ### <br>
+###Goal: Analyze nba Players by tracking players in games ### <br> 
 
 
 Player tracking statistics: <br>
@@ -30,7 +30,7 @@ defending the rim <br>
 • UFGM - Uncontested field goals made <br>
 • UFGA - Uncontested field goals attempted <br>
 • UFG% - Uncontested field goal percentage <br>
-• FTAST - A player is awarded a free throw assist <br>
+• FTAST - A player is awarded a free throw assist 
 if they passed the ball to a player who drew a
 shooting foul within one dribble of receiving the
 pass
