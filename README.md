@@ -1,8 +1,7 @@
 <h1> Data Preparation for NBA Tracking analysis <h1>
 
 <h3> How: Using the nba_api module <h3>
-<h3> Goal: Analyze nba Players by tracking players in games <h3> <br> 
-
+<h3> Goal: Analyze nba Players by tracking metrics in games <h3> <br> 
 
 Player tracking statistics: <br>
 • DIST - Distance run (in miles) <br>
