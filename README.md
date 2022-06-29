@@ -1,8 +1,7 @@
-Markup :  # Heading 1 #
-##Data Preparation for NBA Tracking analysis ##
+<h1> Data Preparation for NBA Tracking analysis <h1>
 
-###How: Using the nba_api module ### <br>
-###Goal: Analyze nba Players by tracking players in games ### <br> 
+<h3> How: Using the nba_api module <h3> <br>
+<h3> Goal: Analyze nba Players by tracking players in games <h3> <br> 
 
 
 Player tracking statistics: <br>
